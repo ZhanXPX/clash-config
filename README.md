@@ -8,7 +8,7 @@
 - [LM-Firefly](https://github.com/LM-Firefly/Rules)
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 
-科学的翻阅高墙
+科学的翻越高墙
 
 与小伙伴共同分享光明
 
