@@ -1,8 +1,7 @@
 # 已停用
+## 新的分流规则已迁移至新储存库[ZhanXPX/Rules](https://github.com/ZhanXPX/Rules)
 # ~~clash-config~~
 ## ~~小贝同学与小伙伴们一起使用的分流规则~~
-
-新的分流规则已迁移至新储存库[ZhanXPX/Rules](https://github.com/ZhanXPX/Rules)
 
 ~~感谢的项目：~~
 
